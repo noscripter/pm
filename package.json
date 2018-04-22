@@ -44,7 +44,7 @@
     "extract-text-webpack-plugin": "^0.8.0",
     "file-loader": "^0.8.1",
     "keymirror": "^0.1.1",
-    "less": "^2.5.0",
+    "less": "^3.0.2",
     "less-loader": "^2.2.0",
     "maco": "^1.0.2",
     "ngraph.events": "0.0.3",
